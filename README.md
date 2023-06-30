@@ -3,11 +3,10 @@ Project is developed using various python libararies such as scikit-learn, NumPy
 
 # DATA SETS
 
-Used the UCI ML Parkinson’s dataset
+Used the UCI ML Parkinson’s dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
 
-DOWNLOAD LINK : https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
-
-In this  project, we detected the presence of Parkinson’s Disease in people using various factors.An accuracy of 94.87% was achieved.
+-Detected the presence of Parkinson’s Disease using various factors.
+-An accuracy of 94.87% was achieved.
 
 
 
